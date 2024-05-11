@@ -1,10 +1,2 @@
-## Habilidades
-
-<div style="background-color: #ffcc00; padding: 10px; border-radius: 8px; color: #fff; text-align: center;">
-    <strong>HTML</strong><br>
-    <strong>CSS</strong><br>
-    <strong>JavaScript</strong><br>
-    <strong>Python</strong><br>
-    <strong>React</strong><br>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A531B4&random=false&width=435&lines=Programadora+Front+End+e+Mobile%2C+Professora+de+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
